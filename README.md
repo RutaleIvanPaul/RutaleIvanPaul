@@ -13,7 +13,7 @@ A 5 year seasoned, professional software engineer dedicated to solution
 delivery without attachment to tools,<br/> technology, or stacks.
 A Well-rounded leader and follower, adaptive to any work culture or methodology.
     
-
+---
 
 [![Static Badge](https://img.shields.io/badge/Github_Profile-black?logo=github)](https://github.com/RutaleIvanPaul)
 [![Static Badge](https://img.shields.io/badge/Rutale_Ivan_Paul-blue?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frutale-ivan-paul-881628129%2F)](https://www.linkedin.com/in/rutale-ivan-paul-881628129/)
@@ -24,7 +24,7 @@ A Well-rounded leader and follower, adaptive to any work culture or methodology.
 #### [SFA](https://github.com/RutaleIvanPaul/SalesForceApp)
 #### [Stationary Sales](https://github.com/RutaleIvanPaul/Stationary-Sales)
 #### [Compose Multiplatform](https://github.com/RutaleIvanPaul/Compose-MM)
-
+---
 ### Deployed Apps
 #### [RamaniSFA](https://play.google.com/store/apps/details?id=io.ramani.ramanisalesforce&hl=en&gl=US)
 
@@ -39,7 +39,7 @@ A Well-rounded leader and follower, adaptive to any work culture or methodology.
 #### [Fun Facts App](https://github.com/RutaleIvanPaul/FunFactsAppKotlin)
 
 #### [Converge LevelUP](https://www.amazon.com/gp/product/B07K7GTS6C)
-
+---
 ### More Contact Information
 
 Phone: +256 777 478 430
