@@ -25,20 +25,20 @@ A Well-rounded leader and follower, adaptive to any work culture or methodology.
 #### [Stationary Sales](https://github.com/RutaleIvanPaul/Stationary-Sales)
 #### [Compose Multiplatform](https://github.com/RutaleIvanPaul/Compose-MM)
 ---
-### Deployed Apps
+### Deployed Apps and Side Projects
 #### [RamaniSFA](https://play.google.com/store/apps/details?id=io.ramani.ramanisalesforce&hl=en&gl=US)
 
-#### [TREEO](https://treeo.one/en/treeo-app)
+#### [TREEO Repo](https://github.com/RutaleIvanPaul/TreeoApp) and [More Details](https://treeo.one/en/treeo-app)
+
+#### [News App](https://github.com/RutaleIvanPaul/NewsApp) and [More Details](https://www.amazon.com/gp/product/B07WCNQBMW)
+
+#### [Converge LevelUP](https://github.com/RutaleIvanPaul/converge-levelup/tree/develop) and [More Details](https://www.amazon.com/gp/product/B07K7GTS6C)
 
 #### [Running Tracker Application](https://github.com/RutaleIvanPaul/Running-Tracker)
-
-#### [News App](https://www.amazon.com/gp/product/B07WCNQBMW)
 
 #### [MapenziDigital](https://github.com/RutaleIvanPaul/MapenziDigital)
 
 #### [Fun Facts App](https://github.com/RutaleIvanPaul/FunFactsAppKotlin)
-
-#### [Converge LevelUP](https://www.amazon.com/gp/product/B07K7GTS6C)
 ---
 ### More Contact Information
 
