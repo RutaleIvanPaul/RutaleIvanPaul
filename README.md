@@ -21,7 +21,6 @@ A Well-rounded leader and follower, adaptive to any work culture or methodology.
 
 ### Top Repos
 #### [Kotlin Multiplatform](https://github.com/RutaleIvanPaul/KMM)
-#### [SFA](https://github.com/RutaleIvanPaul/SalesForceApp)
 #### [Stationary Sales](https://github.com/RutaleIvanPaul/Stationary-Sales)
 #### [Compose Multiplatform](https://github.com/RutaleIvanPaul/Compose-MM)
 ---
