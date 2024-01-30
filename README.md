@@ -9,7 +9,7 @@
 </p>
 
  
-A 5 year seasoned, professional software engineer dedicated to solution
+A 6 year seasoned, professional software engineer dedicated to solution
 delivery without attachment to tools,<br/> technology, or stacks.
 A Well-rounded leader and follower, adaptive to any work culture or methodology.
     
